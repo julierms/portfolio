@@ -6,10 +6,10 @@
 
 🔭 I’m currently working on **obtaining my CompTIA A+ & CompTIA Security+**
 
- 💡 Technical Skills
+ **💡 Technical Skills**
 - HTML, JavaScript, CSS
 
- 📜 Certifications
+ **📜 Certifications**
 - PromineoTech Front End Software Engineer Certification
 - Google "Foundations of Cybersecurity" Certification
 - Google "Connect and Protect: Networks and Network Security" Certification
