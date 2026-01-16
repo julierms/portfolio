@@ -18,7 +18,7 @@
 🖥️ I’m currently working on **obtaining my CompTIA A+ & CompTIA Security+**
 
 <h3 align="left">Connect with me:</h3>
-👨‍💻 All of my projects are available at [github](https://github.com/julierms)
+👨‍💻 All of my projects are available at [GitHub](https://github.com/julierms)
 
 📫 How to reach me: <a href="mailto:julieannramos14@gmail.com">Send an email</a>
 
