@@ -1,9 +1,9 @@
 <h1>👋 Hi, I'm Julie! </h1>
 
-<img width="163" height="211" alt="Image" src="https://github.com/user-attachments/assets/640bf3ee-658d-444a-ab19-b12c2e2d0158" /><br>
-👩🏻‍💻 Aspiring to build a career in CyberSecurity</br>
-✨ Passionate about learning how systems work, identifying vulnerabilities, and solutions</br>
-🖥️ Currently working on obtaining my CompTIA A+ & CompTIA Security+</h4>
+<img width="163" height="211" alt="Image" src="https://github.com/user-attachments/assets/640bf3ee-658d-444a-ab19-b12c2e2d0158" />
+<br>👩🏻‍💻 Aspiring to build a career in CyberSecurity</br>
+<br>✨ Passionate about learning how systems work, identifying vulnerabilities, and solutions</br>
+<br>🖥️ Currently working on obtaining my CompTIA A+ & CompTIA Security+</br>
 
 ## 💻 **Tech Stack**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
