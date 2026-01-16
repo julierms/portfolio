@@ -1,5 +1,5 @@
 # Hi, I'm **Julie Ann Ramos**
-![Image](https://github.com/user-attachments/assets/872739da-6787-43c7-8f2d-94e58afb754b)
+![Image](https://github.com/user-attachments/assets/6ba279c5-28ca-435b-a217-4d541913ba36)
 ---
 
 ## About me:
