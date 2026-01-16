@@ -2,7 +2,7 @@
 
 <h3 align="center"><img width="401" height="507" alt="Image" src="https://github.com/user-attachments/assets/2380949a-d0c0-4235-96bb-da21ceca968a" /></h3>
 
-<h2 align="center">Aspiring to build a career in cybersecurity, with a solid foundation in web technologies including JavaScript, HTML, and CSS. I’m passionate about learning how systems work, identifying vulnerabilities, and developing secure, reliable solutions as I continue to grow my technical skills.</h2>
+<h4 align="center">Aspiring to build a career in cybersecurity, with a solid foundation in web technologies including JavaScript, HTML, and CSS. I’m passionate about learning how systems work, identifying vulnerabilities, and developing secure, reliable solutions as I continue to grow my technical skills.</h4>
 
 🔭 I’m currently working on **obtaining my CompTIA A+ & CompTIA Security+**
 
