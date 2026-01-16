@@ -5,12 +5,12 @@
 <h3 align="center">Aspiring to build a career in CyberSecurity. I’m passionate about learning how systems work, identifying vulnerabilities, and developing secure, reliable solutions as I continue to grow my technical skills.</h3>
 🖥️ I’m currently working on **obtaining my CompTIA A+ & CompTIA Security+** 
 
-<h3 align="left">💡 Technical Skills</h3>
+# 💡 **Technical Skills**
 - HTML
 - JavaScript
 - CSS
 
-<h3 align="left">📜 Certifications </h3>
+# 📜 **Certifications**
 - PromineoTech Front End Software Engineer Certification
 - Google "Foundations of Cybersecurity" Certification
 - Google "Connect and Protect: Networks and Network Security" Certification
